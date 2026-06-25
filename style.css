@@ -136,3 +136,29 @@ button {
     color: #1f2937;
     margin-top: 15px;
 }
+
+.cta-section {
+  padding: 90px 180px;
+}
+
+.cta-box {
+  background-color: #3882f6;
+  color: white;
+  padding: 45px 110px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cta-box h3 {
+  font-size: 24px;
+}
+
+.cta-box p {
+  color: #e5e7eb;
+}
+
+.cta-box button {
+  border: 2px solid white;
+}
